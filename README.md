@@ -5,8 +5,7 @@
 
 + 2、使用方法
 +   第一步，引用js和css，必须要引入jquery库 
-+   第二步，在html中添加一个按钮，例如： 
-+   <button type="button" class="btn btn-primary">custom</button>
++   第二步，在html中添加一个按钮，例如：<button type="button" class="btn btn-primary">对话框</button>
 +   第三步，JSAPI
 +   ***
 + `	var obj={
@@ -25,4 +24,3 @@
 + 3、 联系方式
 +   vx:13111625706
 +   qq:1801823922 
-+   加好友请写备注
